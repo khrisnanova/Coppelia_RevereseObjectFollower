@@ -30,7 +30,7 @@ The included `remoteApi.so` is a 64-bit Linux x86-64 library. On Windows or macO
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/<YOUR-GITHUB-USERNAME>/Coppelia_RevereseObjectFollower.git
+   git clone https://github.com/khrisnanova/Coppelia_RevereseObjectFollower.git
    cd Coppelia_RevereseObjectFollower
    ```
 
